@@ -24,7 +24,7 @@ https://jefersonalvesrs.github.io/torque-prime/
 
 ### Estrutura da oficina
 
-![Estrutura da oficina](imagens/screenshot-estrutura.jpg)
+![Estrutura da oficina](assets/images/screenshot-estrutura.jpg)
 
 ### Versão mobile
 
