@@ -4,7 +4,9 @@ Site demonstrativo de uma oficina mecânica, desenvolvido com **HTML, CSS e Java
 
 ## 🌐 Projeto online
 
-O link do site será adicionado após a publicação no GitHub Pages.
+Acesse o site publicado:
+
+https://jefersonalvesrs.github.io/torque-prime/
 
 ## 🖼️ Pré-visualização
 
