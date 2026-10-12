@@ -22,6 +22,10 @@ https://jefersonalvesrs.github.io/torque-prime/
 
 ![Formulário de orçamento](assets/images/oficina-orcamento.png)
 
+### Estrutura da oficina
+
+![Estrutura da oficina](imagens/screenshot-estrutura.jpg)
+
 ### Versão mobile
 
 ![Versão mobile da Torque Prime](assets/images/oficina-mobile.png)
