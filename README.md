@@ -26,8 +26,6 @@ https://jefersonalvesrs.github.io/torque-prime/
 
 ![Versão mobile da Torque Prime](assets/images/oficina-mobile.png)
 
-> As quatro capturas de tela serão adicionadas à pasta `assets/images` antes da publicação.
-
 ## ✨ Funcionalidades
 
 - Página inicial com apresentação da oficina
